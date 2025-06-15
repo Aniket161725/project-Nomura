@@ -4,7 +4,7 @@ const demo = () =>{
     return (
         <div>
             <h2>welcome </h2>
-            <MyComponent />
+            <MyComponent name="Aniket" age={22} />
         </div> 
     )
 
